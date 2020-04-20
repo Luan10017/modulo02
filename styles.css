@@ -1,0 +1,62 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto&family=Source+Sans+Pro&display=swap";
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.home {
+    background: rgb(64, 66, 151);
+    text-align: center;
+    padding: 25px;
+    margin: 0;
+    padding: 20px 0 100% 0;
+    border: 0;
+}
+
+header div a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+}
+
+/*==  Segunda página Rocketseat  ==*/
+
+.footer {
+    padding: 20px;
+}
+
+.footer img {
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 32px;
+}
+
+#page-rocketseat {
+    background: rgb(36, 34, 46);
+    text-align: center;
+    color: white;
+}
+
+#page-rocketseat p {
+    margin-bottom: 32px;
+}
+
+.marcadores {
+    align-items: center;
+}
+
+
+.marcadores ul li {
+    text-align: left;
+    margin: 0 46%;
+}
